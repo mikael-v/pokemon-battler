@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-battle",
+  "version": "1.0.0",
+  "description": "a quick pokemon battle game",
+  "main": "battle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikael-v/pokemon-battler.git"
+  },
+  "author": "Mikael Vadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikael-v/pokemon-battler/issues"
+  },
+  "homepage": "https://github.com/mikael-v/pokemon-battler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
