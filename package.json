@@ -2,6 +2,7 @@
   "name": "pokemon-battle",
   "version": "1.0.0",
   "description": "a quick pokemon battle game",
+  "type": "module",
   "main": "battle.js",
   "scripts": {
     "test": "jest"
@@ -20,6 +21,8 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
+    "@inquirer/prompts": "^6.0.1",
+    "@inquirer/rawlist": "^3.0.1",
     "inquirer": "^8.2.6"
   }
 }
