@@ -4,7 +4,9 @@
 
 This is a functional two-player pokemon battle game that can be played within the terminal as seen in this example:
 
-[<img src="https://github.com/mikael-v/pokemon-battler/blob/main/Demo.mp4" >]("Demo)
+https://github.com/user-attachments/assets/eb5f5809-6de8-475d-bf9a-24207b1fea82
+
+
 
 ## Setup Instructions
 
